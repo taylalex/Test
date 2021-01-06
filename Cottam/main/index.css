@@ -1,0 +1,19 @@
+p {
+    font-size: 50px;
+}
+.red-block {
+    text-align:center;
+    background-color: red;
+    width: 300px;
+    height: 200px;
+}
+.blue-block {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+.green-block {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}
